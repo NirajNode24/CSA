@@ -1,0 +1,14 @@
+/* src/App.css */
+
+button {
+  background-color: #4285F4;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3c78d8;
+}
